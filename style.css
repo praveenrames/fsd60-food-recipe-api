@@ -1,0 +1,25 @@
+body{
+   background-image: url(./img/spaghetti-1932466_1280.jpg);
+   background-attachment: fixed;
+   background-blend-mode: normal;
+   margin: 0px;
+   padding: 0px;
+}
+h3{
+    border-style: solid;
+    color:black;
+    background-color:darkgreen;
+    border-radius: 46px;
+    border-color: whitesmoke;
+    padding: 15px 20px;
+}
+.btn{
+    color: black;
+    background-color: blue;
+    font-family: 'Times New Roman';
+}
+.btn:hover{
+    background-color: cornflowerblue;
+    color: whitesmoke;
+    background-color:cornflowerblue;
+}
