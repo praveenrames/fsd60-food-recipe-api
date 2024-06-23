@@ -6,3 +6,5 @@
 Simply search for any particular food, and our API will provide you with detailed information on different types of that food along with their unique recipes.
 Whether you’re a home cook looking for new ideas or a professional chef in need of inspiration, the
 Food Recipe API has you covered with an extensive and diverse recipe database.
+## Netlify Link 
+ - https://fsd60-food-recipe-api.netlify.app
